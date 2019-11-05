@@ -1,0 +1,11 @@
+C:\Users\pc\Desktop\Учёба\Олимпиады\Olympiad\B\bin\Debug\netcoreapp3.0\B.exe
+C:\Users\pc\Desktop\Учёба\Олимпиады\Olympiad\B\bin\Debug\netcoreapp3.0\B.deps.json
+C:\Users\pc\Desktop\Учёба\Олимпиады\Olympiad\B\bin\Debug\netcoreapp3.0\B.runtimeconfig.json
+C:\Users\pc\Desktop\Учёба\Олимпиады\Olympiad\B\bin\Debug\netcoreapp3.0\B.runtimeconfig.dev.json
+C:\Users\pc\Desktop\Учёба\Олимпиады\Olympiad\B\bin\Debug\netcoreapp3.0\B.dll
+C:\Users\pc\Desktop\Учёба\Олимпиады\Olympiad\B\bin\Debug\netcoreapp3.0\B.pdb
+C:\Users\pc\Desktop\Учёба\Олимпиады\Olympiad\B\obj\Debug\netcoreapp3.0\B.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Учёба\Олимпиады\Olympiad\B\obj\Debug\netcoreapp3.0\B.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Учёба\Олимпиады\Olympiad\B\obj\Debug\netcoreapp3.0\B.AssemblyInfo.cs
+C:\Users\pc\Desktop\Учёба\Олимпиады\Olympiad\B\obj\Debug\netcoreapp3.0\B.dll
+C:\Users\pc\Desktop\Учёба\Олимпиады\Olympiad\B\obj\Debug\netcoreapp3.0\B.pdb
