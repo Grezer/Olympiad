@@ -1,0 +1,11 @@
+C:\Users\Grezer\Desktop\Доделать\Olympiad\D\bin\Debug\netcoreapp3.0\D.exe
+C:\Users\Grezer\Desktop\Доделать\Olympiad\D\bin\Debug\netcoreapp3.0\D.deps.json
+C:\Users\Grezer\Desktop\Доделать\Olympiad\D\bin\Debug\netcoreapp3.0\D.runtimeconfig.json
+C:\Users\Grezer\Desktop\Доделать\Olympiad\D\bin\Debug\netcoreapp3.0\D.runtimeconfig.dev.json
+C:\Users\Grezer\Desktop\Доделать\Olympiad\D\bin\Debug\netcoreapp3.0\D.dll
+C:\Users\Grezer\Desktop\Доделать\Olympiad\D\bin\Debug\netcoreapp3.0\D.pdb
+C:\Users\Grezer\Desktop\Доделать\Olympiad\D\obj\Debug\netcoreapp3.0\D.csprojAssemblyReference.cache
+C:\Users\Grezer\Desktop\Доделать\Olympiad\D\obj\Debug\netcoreapp3.0\D.AssemblyInfoInputs.cache
+C:\Users\Grezer\Desktop\Доделать\Olympiad\D\obj\Debug\netcoreapp3.0\D.AssemblyInfo.cs
+C:\Users\Grezer\Desktop\Доделать\Olympiad\D\obj\Debug\netcoreapp3.0\D.dll
+C:\Users\Grezer\Desktop\Доделать\Olympiad\D\obj\Debug\netcoreapp3.0\D.pdb

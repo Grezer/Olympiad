@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Grezer\\Desktop\\Доделать\\Olympiad\\B\\B.csproj",
-      "projectName": "B",
-      "projectPath": "C:\\Users\\Grezer\\Desktop\\Доделать\\Olympiad\\B\\B.csproj",
+      "projectUniqueName": "C:\\Users\\Grezer\\Desktop\\Доделать\\Olympiad\\D\\D.csproj",
+      "projectName": "D",
+      "projectPath": "C:\\Users\\Grezer\\Desktop\\Доделать\\Olympiad\\D\\D.csproj",
       "packagesPath": "C:\\Users\\Grezer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Grezer\\Desktop\\Доделать\\Olympiad\\B\\obj\\",
+      "outputPath": "C:\\Users\\Grezer\\Desktop\\Доделать\\Olympiad\\D\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

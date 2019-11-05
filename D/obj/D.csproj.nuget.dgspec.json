@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Grezer\\Desktop\\Доделать\\Olympiad\\A\\A.csproj": {}
+    "C:\\Users\\Grezer\\Desktop\\Доделать\\Olympiad\\D\\D.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Grezer\\Desktop\\Доделать\\Olympiad\\A\\A.csproj": {
+    "C:\\Users\\Grezer\\Desktop\\Доделать\\Olympiad\\D\\D.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Grezer\\Desktop\\Доделать\\Olympiad\\A\\A.csproj",
-        "projectName": "A",
-        "projectPath": "C:\\Users\\Grezer\\Desktop\\Доделать\\Olympiad\\A\\A.csproj",
+        "projectUniqueName": "C:\\Users\\Grezer\\Desktop\\Доделать\\Olympiad\\D\\D.csproj",
+        "projectName": "D",
+        "projectPath": "C:\\Users\\Grezer\\Desktop\\Доделать\\Olympiad\\D\\D.csproj",
         "packagesPath": "C:\\Users\\Grezer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Grezer\\Desktop\\Доделать\\Olympiad\\A\\obj\\",
+        "outputPath": "C:\\Users\\Grezer\\Desktop\\Доделать\\Olympiad\\D\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

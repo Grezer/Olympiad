@@ -9,3 +9,8 @@ C:\Users\pc\Desktop\Учёба\Олимпиады\Olympiad\B\obj\Debug\netcoreap
 C:\Users\pc\Desktop\Учёба\Олимпиады\Olympiad\B\obj\Debug\netcoreapp3.0\B.AssemblyInfo.cs
 C:\Users\pc\Desktop\Учёба\Олимпиады\Olympiad\B\obj\Debug\netcoreapp3.0\B.dll
 C:\Users\pc\Desktop\Учёба\Олимпиады\Olympiad\B\obj\Debug\netcoreapp3.0\B.pdb
+C:\Users\Grezer\Desktop\Доделать\Olympiad\B\obj\Debug\netcoreapp3.0\B.csprojAssemblyReference.cache
+C:\Users\Grezer\Desktop\Доделать\Olympiad\B\obj\Debug\netcoreapp3.0\B.AssemblyInfoInputs.cache
+C:\Users\Grezer\Desktop\Доделать\Olympiad\B\obj\Debug\netcoreapp3.0\B.AssemblyInfo.cs
+C:\Users\Grezer\Desktop\Доделать\Olympiad\B\obj\Debug\netcoreapp3.0\B.dll
+C:\Users\Grezer\Desktop\Доделать\Olympiad\B\obj\Debug\netcoreapp3.0\B.pdb
