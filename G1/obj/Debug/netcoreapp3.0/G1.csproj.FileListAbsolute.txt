@@ -1,0 +1,10 @@
+C:\Users\pc\Desktop\Учёба\Олимпиады\Olympiad\G1\bin\Debug\netcoreapp3.0\G1.exe
+C:\Users\pc\Desktop\Учёба\Олимпиады\Olympiad\G1\bin\Debug\netcoreapp3.0\G1.deps.json
+C:\Users\pc\Desktop\Учёба\Олимпиады\Olympiad\G1\bin\Debug\netcoreapp3.0\G1.runtimeconfig.json
+C:\Users\pc\Desktop\Учёба\Олимпиады\Olympiad\G1\bin\Debug\netcoreapp3.0\G1.runtimeconfig.dev.json
+C:\Users\pc\Desktop\Учёба\Олимпиады\Olympiad\G1\bin\Debug\netcoreapp3.0\G1.dll
+C:\Users\pc\Desktop\Учёба\Олимпиады\Olympiad\G1\bin\Debug\netcoreapp3.0\G1.pdb
+C:\Users\pc\Desktop\Учёба\Олимпиады\Olympiad\G1\obj\Debug\netcoreapp3.0\G1.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Учёба\Олимпиады\Olympiad\G1\obj\Debug\netcoreapp3.0\G1.AssemblyInfo.cs
+C:\Users\pc\Desktop\Учёба\Олимпиады\Olympiad\G1\obj\Debug\netcoreapp3.0\G1.dll
+C:\Users\pc\Desktop\Учёба\Олимпиады\Olympiad\G1\obj\Debug\netcoreapp3.0\G1.pdb

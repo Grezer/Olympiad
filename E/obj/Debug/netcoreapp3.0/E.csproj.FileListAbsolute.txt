@@ -9,3 +9,14 @@ C:\Users\Grezer\Desktop\Доделать\Olympiad\E\obj\Debug\netcoreapp3.0\E.As
 C:\Users\Grezer\Desktop\Доделать\Olympiad\E\obj\Debug\netcoreapp3.0\E.AssemblyInfo.cs
 C:\Users\Grezer\Desktop\Доделать\Olympiad\E\obj\Debug\netcoreapp3.0\E.dll
 C:\Users\Grezer\Desktop\Доделать\Olympiad\E\obj\Debug\netcoreapp3.0\E.pdb
+C:\Users\pc\Desktop\Учёба\Олимпиады\Olympiad\E\bin\Debug\netcoreapp3.0\E.exe
+C:\Users\pc\Desktop\Учёба\Олимпиады\Olympiad\E\bin\Debug\netcoreapp3.0\E.deps.json
+C:\Users\pc\Desktop\Учёба\Олимпиады\Olympiad\E\bin\Debug\netcoreapp3.0\E.runtimeconfig.json
+C:\Users\pc\Desktop\Учёба\Олимпиады\Olympiad\E\bin\Debug\netcoreapp3.0\E.runtimeconfig.dev.json
+C:\Users\pc\Desktop\Учёба\Олимпиады\Olympiad\E\bin\Debug\netcoreapp3.0\E.dll
+C:\Users\pc\Desktop\Учёба\Олимпиады\Olympiad\E\bin\Debug\netcoreapp3.0\E.pdb
+C:\Users\pc\Desktop\Учёба\Олимпиады\Olympiad\E\obj\Debug\netcoreapp3.0\E.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Учёба\Олимпиады\Olympiad\E\obj\Debug\netcoreapp3.0\E.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Учёба\Олимпиады\Olympiad\E\obj\Debug\netcoreapp3.0\E.AssemblyInfo.cs
+C:\Users\pc\Desktop\Учёба\Олимпиады\Olympiad\E\obj\Debug\netcoreapp3.0\E.dll
+C:\Users\pc\Desktop\Учёба\Олимпиады\Olympiad\E\obj\Debug\netcoreapp3.0\E.pdb
