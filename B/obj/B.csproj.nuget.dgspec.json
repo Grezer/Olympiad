@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\Desktop\\Учёба\\Олимпиады\\Olympiad\\B\\B.csproj": {}
+    "C:\\Users\\Grezer\\Desktop\\Доделать\\Olympiad\\B\\B.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\Desktop\\Учёба\\Олимпиады\\Olympiad\\B\\B.csproj": {
+    "C:\\Users\\Grezer\\Desktop\\Доделать\\Olympiad\\B\\B.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\Desktop\\Учёба\\Олимпиады\\Olympiad\\B\\B.csproj",
+        "projectUniqueName": "C:\\Users\\Grezer\\Desktop\\Доделать\\Olympiad\\B\\B.csproj",
         "projectName": "B",
-        "projectPath": "C:\\Users\\pc\\Desktop\\Учёба\\Олимпиады\\Olympiad\\B\\B.csproj",
-        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\Desktop\\Учёба\\Олимпиады\\Olympiad\\B\\obj\\",
+        "projectPath": "C:\\Users\\Grezer\\Desktop\\Доделать\\Olympiad\\B\\B.csproj",
+        "packagesPath": "C:\\Users\\Grezer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Grezer\\Desktop\\Доделать\\Olympiad\\B\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Grezer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

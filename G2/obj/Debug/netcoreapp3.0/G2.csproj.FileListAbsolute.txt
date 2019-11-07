@@ -1,0 +1,10 @@
+C:\Users\Grezer\Desktop\Доделать\Olympiad\G2\bin\Debug\netcoreapp3.0\G2.exe
+C:\Users\Grezer\Desktop\Доделать\Olympiad\G2\bin\Debug\netcoreapp3.0\G2.deps.json
+C:\Users\Grezer\Desktop\Доделать\Olympiad\G2\bin\Debug\netcoreapp3.0\G2.runtimeconfig.json
+C:\Users\Grezer\Desktop\Доделать\Olympiad\G2\bin\Debug\netcoreapp3.0\G2.runtimeconfig.dev.json
+C:\Users\Grezer\Desktop\Доделать\Olympiad\G2\bin\Debug\netcoreapp3.0\G2.dll
+C:\Users\Grezer\Desktop\Доделать\Olympiad\G2\bin\Debug\netcoreapp3.0\G2.pdb
+C:\Users\Grezer\Desktop\Доделать\Olympiad\G2\obj\Debug\netcoreapp3.0\G2.AssemblyInfoInputs.cache
+C:\Users\Grezer\Desktop\Доделать\Olympiad\G2\obj\Debug\netcoreapp3.0\G2.AssemblyInfo.cs
+C:\Users\Grezer\Desktop\Доделать\Olympiad\G2\obj\Debug\netcoreapp3.0\G2.dll
+C:\Users\Grezer\Desktop\Доделать\Olympiad\G2\obj\Debug\netcoreapp3.0\G2.pdb

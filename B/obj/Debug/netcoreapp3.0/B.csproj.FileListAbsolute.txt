@@ -14,3 +14,9 @@ C:\Users\Grezer\Desktop\Доделать\Olympiad\B\obj\Debug\netcoreapp3.0\B.As
 C:\Users\Grezer\Desktop\Доделать\Olympiad\B\obj\Debug\netcoreapp3.0\B.AssemblyInfo.cs
 C:\Users\Grezer\Desktop\Доделать\Olympiad\B\obj\Debug\netcoreapp3.0\B.dll
 C:\Users\Grezer\Desktop\Доделать\Olympiad\B\obj\Debug\netcoreapp3.0\B.pdb
+C:\Users\Grezer\Desktop\Доделать\Olympiad\B\bin\Debug\netcoreapp3.0\B.exe
+C:\Users\Grezer\Desktop\Доделать\Olympiad\B\bin\Debug\netcoreapp3.0\B.deps.json
+C:\Users\Grezer\Desktop\Доделать\Olympiad\B\bin\Debug\netcoreapp3.0\B.runtimeconfig.json
+C:\Users\Grezer\Desktop\Доделать\Olympiad\B\bin\Debug\netcoreapp3.0\B.runtimeconfig.dev.json
+C:\Users\Grezer\Desktop\Доделать\Olympiad\B\bin\Debug\netcoreapp3.0\B.dll
+C:\Users\Grezer\Desktop\Доделать\Olympiad\B\bin\Debug\netcoreapp3.0\B.pdb
