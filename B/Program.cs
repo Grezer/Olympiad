@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace B
 {
@@ -40,11 +42,33 @@ namespace B
                 }
         }
 
+        private static string cellsToString(Cell[,] cells)
+        {
+            string result = "";
+            for (int i = 0; i < cells.GetLength(0); i++)
+                for (int j = 0; j < cells.GetLength(1); j++)
+                    result += cells[i, j].Status ? "1" : "0";
+            return result;
+        }
+
+        private static bool checkLife(Cell[,] cells)
+        {            
+            for (int i = 0; i < cells.GetLength(0); i++)
+                for (int j = 0; j < cells.GetLength(1); j++)
+                    if (cells[i, j].Status) return true;
+            return false;
+        }
+
 
         static void Main(string[] args)
         {
+           
+            //int a = String.Compare(firstStr, secondtStr);
             int size = Convert.ToInt32(Console.ReadLine());
             Cell[,] cells = new Cell[50, 50];
+            Dictionary<int, string> Epochs = new Dictionary<int, string>();
+
+            
             for (int i = 0; i < 50; i++)            
                 for (int j = 0; j < 50; j++)                
                     cells[i, j] = new Cell();           
@@ -58,17 +82,38 @@ namespace B
             Console.WriteLine();
 
             int it = 0;
-            while(it < 100)
+            while(true)
             {
-                for (int i = 0; i < size; i++)
+                Epochs.Add(it, cellsToString(cells));
+                int repetitions = -1;
+                for (int i = 0; i < Epochs.Count; i++)
                 {
-                    for (int j = 0; j < size; j++)
+                    for (int j = i; j < Epochs.Count; j++)
                     {
-                        Console.Write(cells[i + 20, j + 20].Status ? "*" : "x");
+                        if(String.Compare(Epochs[i], Epochs[j]) == 0 && j != i)
+                        {
+                            repetitions = i;
+                            break;
+                        }
                     }
-                    Console.WriteLine();
+                    if (repetitions != -1)
+                        break;
                 }
-                Console.WriteLine();
+
+                if (repetitions != -1)
+                {
+                    Console.WriteLine("Yes");
+                    Console.WriteLine(repetitions);
+                    break;                    
+                }               
+                
+                if(!checkLife(cells))
+                {
+                    Console.WriteLine("No");
+                    Console.WriteLine(it);
+                    break;
+                }
+
                 Reload(50, cells);
                 foreach (var item in cells)
                 {
@@ -82,7 +127,7 @@ namespace B
                             item.Status = true;
                 }
                 it++;                
-            }
+            }            
         }
     }
 }
