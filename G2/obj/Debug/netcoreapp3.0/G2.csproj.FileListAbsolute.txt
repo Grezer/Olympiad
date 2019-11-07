@@ -8,3 +8,4 @@ C:\Users\Grezer\Desktop\Доделать\Olympiad\G2\obj\Debug\netcoreapp3.0\G2.
 C:\Users\Grezer\Desktop\Доделать\Olympiad\G2\obj\Debug\netcoreapp3.0\G2.AssemblyInfo.cs
 C:\Users\Grezer\Desktop\Доделать\Olympiad\G2\obj\Debug\netcoreapp3.0\G2.dll
 C:\Users\Grezer\Desktop\Доделать\Olympiad\G2\obj\Debug\netcoreapp3.0\G2.pdb
+C:\Users\Grezer\Desktop\Доделать\Olympiad\G2\obj\Debug\netcoreapp3.0\G2.csprojAssemblyReference.cache

@@ -17,9 +17,16 @@ namespace E
                 string inputDors = Console.ReadLine();
                 rooms[Convert.ToInt32(inputDors.Split(" ")[0])].Add(Convert.ToInt32(inputDors.Split(" ")[1]));
             }
+
+            List<int> lastRoom = new List<int>();
+            for (int i = 0; i <= countOfRooms; i++)
+                if (rooms[i].Count == 0)
+                    lastRoom.Add(i);
+
             go(0, 1, rooms, result);
-            for (int i = 0; i < result.Count; i++)            
-                Console.WriteLine(i + ": 1/" + result[i]);
+            for (int i = 0; i < result.Count; i++)     
+                if(lastRoom.Contains(i))
+                    Console.WriteLine(i + ": 1/" + result[i]);
         }
 
         public static void go(int nowRoom, int main, Dictionary<int, List<int>> rooms, Dictionary<int, string> result)
